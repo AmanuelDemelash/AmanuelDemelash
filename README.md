@@ -1,7 +1,7 @@
 ![MasterHead](https://www.saratechnologies.com/images/mobile-app-banner.jpg)
 <h1 align="center">Hi 👋, I'm Amanuel Demelash</h1>
 <h2 align="center">Software developer </h2>
-<h3 align="center">I am a skilled software engineer with a passion for solving complex problems and creating innovative solutions. With plenty years of experience in the industry, I have developed expertise in multiple programming languages. I have a strong understanding of software development life cycle and agile methodologies. Overall, I am passionate about using my skills to make a positive impact in the world through technology. I am excited to continue growing as a software engineer and contributing to innovative projects that push the boundaries of what's possible.</h3>
+<h4 align="center">I am a skilled software engineer with a passion for solving complex problems and creating innovative solutions. With plenty years of experience in the industry, I have developed expertise in multiple programming languages. I have a strong understanding of software development life cycle and agile methodologies. Overall, I am passionate about using my skills to make a positive impact in the world through technology. I am excited to continue growing as a software engineer and contributing to innovative projects that push the boundaries of what's possible.</h4>
 
 
 
