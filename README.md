@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Hakime (health service provider)**
+- 🔭 I’m currently working in ** Etechsc as software developer **
 
 - 💬 Ask me about **flutter, firebase, dart, graphQL api,rest api**
 
