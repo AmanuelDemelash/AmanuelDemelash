@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanueldemelash&show_icons=true&locale=en" alt="amanueldemelash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanueldemelash&" alt="amanueldemelash" /></p>
+
+<a href="https://app.daily.dev/amanroot"><img src="https://api.daily.dev/devcards/7968f0d2686e445f9d3b304bf2039180.png?r=8f3" width="400" alt="Amanuel Demelash's Dev Card"/></a>
