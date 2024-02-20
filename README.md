@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in ** Etechsc as software developer and flutter developer**
 
-- 💬 Ask me about **flutter, firebase, dart, graphQL api,rest api**
+- 💬 Ask me about **flutter, firebase, dart, graphQL api,rest api,Graphql,vendure , nestjs**
 
 - 📫 How to reach me **amanueldemelash12@gmail.com**
 
