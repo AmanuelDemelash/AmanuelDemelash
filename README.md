@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working in ** Etechsc as software developer and flutter developer**
+- 🔭 I’m currently working in ** 2fCapital as software developer and flutter developer**
 
 - 💬 Ask me about **flutter, firebase, dart, graphQL api,rest api,Graphql,vendure , nestjs**
 
